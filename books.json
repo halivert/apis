@@ -1,26 +1,26 @@
 [
 	{
 		"id": 1,
-		"title": "I Love You to the Moon and Back",
-		"author": "Amelia Hepworth",
-		"img": "https://images-na.ssl-images-amazon.com/images/I/81eB%2B7%2BCkUL._AC_UL200_SR200,200_.jpg",
-		"description": "A book about love",
-		"price": 100
+		"title": "Goodnight Moon",
+		"author": "Margaret Wise Brown",
+		"img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81t-IstQ+ZL.jpg",
+		"description": "Classic of children's literature",
+		"price": 5.39
 	},
 	{
 		"id": 2,
-		"title": "Our Class is a Family",
-		"author": "Shannon Olsen",
-		"img": "https://images-na.ssl-images-amazon.com/images/I/71aLultW5EL._AC_UL200_SR200,200_.jpg",
-		"description": "A book about friendship",
-		"price": 450
+		"title": "Brown Bear, Brown Bear, What Do You See?",
+		"author": "Bill Martin Jr.",
+		"img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81EVdWdmOKL.jpg",
+		"description": "A big happy frog, a plump purple cat, a handsome blue horse, and a soft yellow duck--all parade across the pages of this delightful book.",
+		"price": 4
 	},
 	{
 		"id": 3,
-		"title": "The Vanishing Half: A Novel",
-		"author": "Brit Bennett",
-		"img": "https://images-na.ssl-images-amazon.com/images/I/71e5m7xQd0L._AC_UL200_SR200,200_.jpg",
-		"description": "A novel about... stuff",
-		"price": 300
+		"title": "Silly Sea Creatures",
+		"author": "Little Hippo Books",
+		"img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51vvBABPnNL._SX382_BO1,204,203,200_.jpg",
+		"description": "Join a few favorite under the sea creatures, like a singing starfish or an organized octopus, in this fun to read silicone touch and feel children's book.",
+		"price": 3
 	}
 ]
